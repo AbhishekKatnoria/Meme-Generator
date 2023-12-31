@@ -1,12 +1,13 @@
 import './App.css';
 import Header from './Components/Header';
-import Input from './Components/Input';
+import memeData from './memeData';
 
 function App() {
   return (
    <>
    <Header/>
-   <Input/> 
+   
+   
    </>
   );
 }
