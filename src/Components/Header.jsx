@@ -1,5 +1,5 @@
-import React from 'react'
-import Meme from './Meme'
+import React from 'react';
+import Meme from './Meme';
 
 
 function Navbar() {
@@ -17,4 +17,4 @@ function Navbar() {
   )
 }
 
-export default Navbar
+export default Navbar;
